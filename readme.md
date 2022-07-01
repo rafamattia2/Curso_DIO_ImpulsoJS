@@ -5,8 +5,8 @@
 
 - Módulo I - Princípios de Desenvolvimento de software <p>
 ```
-| Curso                                                  | Horas |
-|--------------------------------------------------------|-------|
+| Curso | Horas |
+| --- | --- |
 | 1. Introdução à Programação e Pensamento Computacional |  5    |
 | 2. Introdução ao Git e ao GitHub                       |  5    |
 | 3. Criando seu Primeiro Repositório no GitHub...       |  1    |
