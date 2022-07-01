@@ -53,10 +53,10 @@
 ```
 - Módulo V - Banco de Dados Relacionais (SQL) e Não Relacionais (NoSQL)
 ```
-| Curso                                                           	| Horas 	| Nível         	|
-|-----------------------------------------------------------------	|-------	|---------------	|
-| 1. Conceitos e melhores práticas com bancos de dados PostgreSQL 	|   9   	| Intermediário 	|
-| 2. Introdução ao MongoDB e Bancos de Dados NoSQL                	|   6   	| Avançado      	|
+| Curso                                                           | Horas | Nível         |
+|-----------------------------------------------------------------|-------|---------------|
+| 1. Conceitos e melhores práticas com bancos de dados PostgreSQL |   9   | Intermediário |
+| 2. Introdução ao MongoDB e Bancos de Dados NoSQL                |   6   | Avançado      |
 ```
 - Módulo VI - Back-end: Criando API com Node.Js
 ```
