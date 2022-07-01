@@ -41,15 +41,15 @@
 ```
 - Módulo IV - Front-end: Desenvolvimento Web com React
 ```
-| Curso                                                                    	| Horas 	| Nível         	|
-|--------------------------------------------------------------------------	|-------	|---------------	|
-| 1. Conhecendo os Principais Protocolos de Comunicação da Internet        	|   3   	| Básico        	|
-| 2. Introdução ao ReactJS                                                 	|   3   	| Básico        	|
-| 3. Desenvolvimento de aplicações para internet com ReactJS               	|   4   	| Intermediário 	|
-| 4. Introdução aos React Hooks                                            	|   5   	| Intermediário 	|
-| 5. Trabalhando com States & Effects no ReactJS                           	|   2   	| Intermediário 	|
-| 6. Práticas avançadas em projetos com ReactJS                            	|   4   	| Intermediário 	|
-| 7. Criando um front-end totalmente componentizado na prática com ReactJS 	|   1   	| Intermediário 	|
+| Curso                                                                    | Horas | Nível         |
+|--------------------------------------------------------------------------|-------|---------------|
+| 1. Conhecendo os Principais Protocolos de Comunicação da Internet        |   3   | Básico        |
+| 2. Introdução ao ReactJS                                                 |   3   | Básico        |
+| 3. Desenvolvimento de aplicações para internet com ReactJS               |   4   | Intermediário |
+| 4. Introdução aos React Hooks                                            |   5   | Intermediário |
+| 5. Trabalhando com States & Effects no ReactJS                           |   2   | Intermediário |
+| 6. Práticas avançadas em projetos com ReactJS                            |   4   | Intermediário |
+| 7. Criando um front-end totalmente componentizado na prática com ReactJS |   1   | Intermediário |
 ```
 - Módulo V - Banco de Dados Relacionais (SQL) e Não Relacionais (NoSQL)
 ```
@@ -60,15 +60,15 @@
 ```
 - Módulo VI - Back-end: Criando API com Node.Js
 ```
-| Curso                                                                           	| Horas 	| Nível         	|
-|---------------------------------------------------------------------------------	|-------	|---------------	|
-| 1. Instalação e Configurando seu Ambiente Node.js                               	|   2   	| Básico        	|
-| 2. Introdução ao Node.js com JavaScript                                         	|   2   	| Intermediário 	|
-| 3. Fundamentos de Node.js e Jest                                                	|   2   	| Intermediário 	|
-| 4. Piramide de Testes na Prática Explorando Jest e TDD                          	|   3   	| Intermediário 	|
-| 5. Explorando o Estilo Arquitetural REST com Node.js                            	|   2   	| Avançado      	|
-| 6. Node.JS com Bancos de Dados Relacionais (SQL)                                	|   2   	| Avançado      	|
-| 7. Microsserviços e Integrações com Node.js                                     	|   2   	| Avançado      	|
-| 8. Criando uma API REST com Node.js e TypeORM                                   	|   5   	| Avançado      	|
-| 9. Integrando um Backend em Node.js com um Frontend em React para um E-commerce 	|   1   	| Avançado      	|
+| Curso                                                                           | Horas | Nível         |
+|---------------------------------------------------------------------------------|-------|---------------|
+| 1. Instalação e Configurando seu Ambiente Node.js                               |   2   | Básico        |
+| 2. Introdução ao Node.js com JavaScript                                         |   2   | Intermediário |
+| 3. Fundamentos de Node.js e Jest                                                |   2   | Intermediário |
+| 4. Piramide de Testes na Prática Explorando Jest e TDD                          |   3   | Intermediário |
+| 5. Explorando o Estilo Arquitetural REST com Node.js                            |   2   | Avançado      |
+| 6. Node.JS com Bancos de Dados Relacionais (SQL)                                |   2   | Avançado      |
+| 7. Microsserviços e Integrações com Node.js                                     |   2   | Avançado      |
+| 8. Criando uma API REST com Node.js e TypeORM                                   |   5   | Avançado      |
+| 9. Integrando um Backend em Node.js com um Frontend em React para um E-commerce |   1   | Avançado      |
 ```
